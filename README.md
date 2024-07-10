@@ -6,9 +6,12 @@ Lolicomputer is an online store specializing in low-cost computer components for
 
 - Inspiration: [Enterkomputer.com](https://enterkomputer.com/)
 - Design: [Figma](https://www.figma.com/design/tXNjjiiYFAKH75k45uRHUK/lolicomputer?node-id=0-1&t=Li3bYntI9M3t98YQ-1)
-- Frontend Repository: [lolicomputer-frontend](https://github.com/henhenmuldani/lolicomputer-frontend)
-- Backend Repository: [lolicomputer-backend](https://github.com/henhenmuldani/lolicomputer-backend)
-- Live Site: [lolicomputer](https://lolicomputer.henhenmuldani.com/)
+- Frontend:
+  - Repository: [lolicomputer-frontend](https://github.com/henhenmuldani/lolicomputer-frontend)
+  - Deployment: [lolicomputer.com](https://lolicomputer.henhenmuldani.com/)
+- Backend:
+  - Repository: [lolicomputer-backend](https://github.com/henhenmuldani/lolicomputer-backend)
+  - Deployment: [lolicomputer-api](https://lolicomputer-backend.henhenmuldani.com/)
 
 ## Features
 
